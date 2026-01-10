@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>随手背日语 - Japanese Anytime</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <header class="header">
+            <h1 class="title">
+                <i class="fas fa-book"></i>
+                随手背日语
+            </h1>
+            <p class="subtitle">Japanese Anytime - 随时随地学日语</p>
+        </header>
+
+        <!-- 分类选择器 -->
+        <div class="category-selector">
+            <button class="category-btn active" data-category="all">
+                <i class="fas fa-th"></i> 全部
+            </button>
+            <button class="category-btn" data-category="greetings">
+                <i class="fas fa-hand"></i> 问候语
+            </button>
+            <button class="category-btn" data-category="daily">
+                <i class="fas fa-home"></i> 日常用语
+            </button>
+            <button class="category-btn" data-category="numbers">
+                <i class="fas fa-calculator"></i> 数字
+            </button>
+            <button class="category-btn" data-category="food">
+                <i class="fas fa-utensils"></i> 食物
+            </button>
+        </div>
+
+        <!-- 词汇卡片 -->
+        <div class="card-container">
+            <div class="word-card" id="wordCard">
+                <div class="card-header">
+                    <span class="card-number" id="cardNumber">1 / 50</span>
+                    <span class="card-category" id="cardCategory">日常用语</span>
+                </div>
+                <div class="card-content">
+                    <div class="japanese-text" id="japaneseText">こんにちは</div>
+                    <div class="pronunciation" id="pronunciation">konnichiwa</div>
+                    <div class="divider"></div>
+                    <div class="meaning" id="meaning">你好（白天问候）</div>
+                </div>
+                <div class="card-footer">
+                    <button class="btn btn-toggle" id="toggleBtn">
+                        <i class="fas fa-eye"></i> 显示/隐藏
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 控制按钮 -->
+        <div class="controls">
+            <button class="btn btn-prev" id="prevBtn">
+                <i class="fas fa-chevron-left"></i> 上一个
+            </button>
+            <button class="btn btn-shuffle" id="shuffleBtn">
+                <i class="fas fa-random"></i> 随机
+            </button>
+            <button class="btn btn-next" id="nextBtn">
+                下一个 <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+
+        <!-- 统计信息 -->
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-label">已学习</span>
+                <span class="stat-value" id="learnedCount">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">当前分类</span>
+                <span class="stat-value" id="currentCategoryCount">50</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+
