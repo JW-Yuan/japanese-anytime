@@ -1,0 +1,1048 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "japanese": "こんにちは",
+      "pronunciation": "konnichiwa",
+      "meaning": "你好（白天问候）",
+      "category": "greetings",
+      "nLevel": "N5",
+      "book": "标准日本语初级上",
+      "wordType": "问候语",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "こんにちは是日语中最常用的问候语之一，用于白天（大约上午10点到下午5点）的打招呼。",
+        "etymology": "こんにち（今日）意思是'今天'，は是助词。这个问候语的字面意思是'今天如何'，逐渐演变成日常问候。"
+      },
+      "examples": [
+        {
+          "japanese": "こんにちは、元気ですか？",
+          "pronunciation": "konnichiwa, genki desu ka?",
+          "chinese": "你好，你好吗？"
+        }
+      ],
+      "culturalBackground": {
+        "origin": "こんにちは来源于'今日は（こんにちは）ご機嫌いかがですか'（今天您的心情如何）的省略形式。",
+        "usage": "在日本文化中，问候是非常重要的礼仪。根据时间和场合使用不同的问候语是日本社交的基本要求。",
+        "context": "白天（约10:00-17:00）使用，对陌生人、同事、朋友都适用。"
+      },
+      "wordForms": {
+        "formal": "こんにちは",
+        "casual": "こんちは"
+      },
+      "memoryTips": [
+        "记住'こんにちは'中的'にち'和中文'日'字相似，都是'日子'的意思。"
+      ],
+      "story": {
+        "japanese": "ある日の午後、田中さんは公園で散歩していました。そこに知らない人が近づいてきました。「こんにちは」と挨拶され、田中さんも「こんにちは」と笑顔で答えました。",
+        "chinese": "某天的下午，田中先生在公园里散步。这时有个陌生人走近了。那人说了「こんにちは」打招呼，田中先生也微笑着回答「こんにちは」。"
+      },
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "collocations": []
+    },
+    {
+      "id": 2,
+      "japanese": "おはよう",
+      "pronunciation": "ohayou",
+      "meaning": "早上好",
+      "category": "greetings",
+      "nLevel": "N5",
+      "book": "标准日本语初级上",
+      "wordType": "问候语",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "おはよう是早上使用的问候语，是最常用的日语问候之一。"
+      },
+      "examples": [
+        {
+          "japanese": "おはようございます。",
+          "pronunciation": "ohayou gozaimasu.",
+          "chinese": "早上好（正式）"
+        }
+      ],
+      "memoryTips": [
+        "'おはよう'中的'はや'和'早'（早い）发音相似，可以联想到'早'。"
+      ],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 3,
+      "japanese": "仕事",
+      "pronunciation": "shigoto",
+      "meaning": "工作",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "仕事表示工作、职业的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 4,
+      "japanese": "学校",
+      "pronunciation": "gakkou",
+      "meaning": "学校",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "学校表示学校、教育机构的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 5,
+      "japanese": "電車",
+      "pronunciation": "densha",
+      "meaning": "电车",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "電車表示电车、电气列车的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 6,
+      "japanese": "駅",
+      "pronunciation": "eki",
+      "meaning": "车站",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "駅表示车站、火车站的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 7,
+      "japanese": "雨",
+      "pronunciation": "ame",
+      "meaning": "雨",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "雨表示雨、下雨的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 8,
+      "japanese": "風",
+      "pronunciation": "kaze",
+      "meaning": "风",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "風表示风、风力的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 9,
+      "japanese": "休み",
+      "pronunciation": "yasumi",
+      "meaning": "休息；假期",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "休み表示休息、假期的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 10,
+      "japanese": "住所",
+      "pronunciation": "juusho",
+      "meaning": "住址",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "住所表示住址、地址的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 11,
+      "japanese": "電話",
+      "pronunciation": "denwa",
+      "meaning": "电话",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "電話表示电话、通话的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 12,
+      "japanese": "友達",
+      "pronunciation": "tomodachi",
+      "meaning": "朋友",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "友達表示朋友、友人的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 13,
+      "japanese": "働く",
+      "pronunciation": "hataraku",
+      "meaning": "工作，劳动",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "働く表示工作、劳动的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 14,
+      "japanese": "勉強する",
+      "pronunciation": "benkyou suru",
+      "meaning": "学习",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "勉強する表示学习、用功的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 15,
+      "japanese": "教える",
+      "pronunciation": "oshieru",
+      "meaning": "教，教授",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "教える表示教、教授的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 16,
+      "japanese": "習う",
+      "pronunciation": "narau",
+      "meaning": "学习，效仿",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "習う表示学习、效仿的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 17,
+      "japanese": "買う",
+      "pronunciation": "kau",
+      "meaning": "买，购买",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "買う表示买、购买的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 18,
+      "japanese": "売る",
+      "pronunciation": "uru",
+      "meaning": "卖，销售",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "売る表示卖、销售的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 19,
+      "japanese": "貸す",
+      "pronunciation": "kasu",
+      "meaning": "借出，租借",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "貸す表示借出、租借的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 20,
+      "japanese": "借りる",
+      "pronunciation": "kariru",
+      "meaning": "借，借用",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "借りる表示借、借用的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 21,
+      "japanese": "返す",
+      "pronunciation": "kaesu",
+      "meaning": "归还；返回",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "返す表示归还、返回的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 22,
+      "japanese": "渡す",
+      "pronunciation": "watasu",
+      "meaning": "交给，传递",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "渡す表示交给、传递的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 23,
+      "japanese": "忙しい",
+      "pronunciation": "isogashii",
+      "meaning": "忙碌的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "忙しい表示忙碌的、繁忙的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 24,
+      "japanese": "嬉しい",
+      "pronunciation": "ureshii",
+      "meaning": "高兴的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "嬉しい表示高兴的、开心的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 25,
+      "japanese": "悲しい",
+      "pronunciation": "kanashii",
+      "meaning": "悲伤的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "悲しい表示悲伤的、难过的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 26,
+      "japanese": "寂しい",
+      "pronunciation": "samishii",
+      "meaning": "寂寞的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "寂しい表示寂寞的、孤独的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 27,
+      "japanese": "安い",
+      "pronunciation": "yasui",
+      "meaning": "便宜的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "安い表示便宜的、低廉的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 28,
+      "japanese": "難しい",
+      "pronunciation": "muzukashii",
+      "meaning": "难的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "難しい表示难的、困难的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 29,
+      "japanese": "易しい",
+      "pronunciation": "yasashii",
+      "meaning": "容易的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "易しい表示容易的、简单的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 30,
+      "japanese": "静か",
+      "pronunciation": "shizuka",
+      "meaning": "安静的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "静か表示安静的、宁静的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 31,
+      "japanese": "親切",
+      "pronunciation": "shinsetsu",
+      "meaning": "亲切的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "親切表示亲切的、友善的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 32,
+      "japanese": "簡単",
+      "pronunciation": "kantan",
+      "meaning": "简单的",
+      "category": "daily",
+      "nLevel": "N5",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "簡単表示简单的、容易的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    }
+  ]
+}

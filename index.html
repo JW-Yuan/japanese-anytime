@@ -8,78 +8,183 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <div class="container">
-        <!-- 头部 -->
-        <header class="header">
-            <h1 class="title">
-                <i class="fas fa-book"></i>
-                随手背日语
-            </h1>
-            <p class="subtitle">Japanese Anytime - 随时随地学日语</p>
-        </header>
-
-        <!-- 分类选择器 -->
-        <div class="category-selector">
-            <button class="category-btn active" data-category="all">
-                <i class="fas fa-th"></i> 全部
-            </button>
-            <button class="category-btn" data-category="greetings">
-                <i class="fas fa-hand"></i> 问候语
-            </button>
-            <button class="category-btn" data-category="daily">
-                <i class="fas fa-home"></i> 日常用语
-            </button>
-            <button class="category-btn" data-category="numbers">
-                <i class="fas fa-calculator"></i> 数字
-            </button>
-            <button class="category-btn" data-category="food">
-                <i class="fas fa-utensils"></i> 食物
-            </button>
+    <!-- 左侧分类选择框 -->
+    <div class="category-sidebar" id="categorySidebar">
+        <!-- Logo区域（缩小状态） -->
+        <div class="sidebar-logo-collapsed">
+            <div class="logo-text-vertical">
+                <span>随</span>
+                <span>手</span>
+                <span>背</span>
+                <span>日</span>
+                <span>语</span>
+            </div>
         </div>
 
-        <!-- 词汇卡片 -->
-        <div class="card-container">
-            <div class="word-card" id="wordCard">
-                <div class="card-header">
-                    <span class="card-number" id="cardNumber">1 / 50</span>
-                    <span class="card-category" id="cardCategory">日常用语</span>
+        <!-- 侧边栏内容 -->
+        <div class="sidebar-content">
+            <!-- Logo和Slogan（展开状态） -->
+            <div class="sidebar-logo-expanded">
+                <h1 class="sidebar-title">
+                    <i class="fas fa-book"></i>
+                    随手背日语
+                </h1>
+                <p class="sidebar-subtitle">Japanese Anytime - 随时随地学日语</p>
+            </div>
+
+            <div class="sidebar-header">
+                <h3>选择分类</h3>
+            </div>
+
+            <div class="mode-tabs">
+                <button class="mode-tab active" data-mode="category">
+                    <i class="fas fa-tags"></i> <span class="tab-text">常用分类</span>
+                </button>
+                <button class="mode-tab" data-mode="nlevel">
+                    <i class="fas fa-signal"></i> <span class="tab-text">N1-N5分级</span>
+                </button>
+                <button class="mode-tab" data-mode="book">
+                    <i class="fas fa-book-open"></i> <span class="tab-text">按词书</span>
+                </button>
+            </div>
+
+            <div class="filter-options">
+                <!-- 常用分类模式 -->
+                <div class="filter-group active" id="filter-category">
+                    <select id="category-select" class="filter-select">
+                        <option value="">选择分类</option>
+                    </select>
                 </div>
-                <div class="card-content">
-                    <div class="japanese-text" id="japaneseText">こんにちは</div>
-                    <div class="pronunciation" id="pronunciation">konnichiwa</div>
-                    <div class="divider"></div>
-                    <div class="meaning" id="meaning">你好（白天问候）</div>
+                <!-- N级别模式 -->
+                <div class="filter-group" id="filter-nlevel">
+                    <select id="nlevel-select" class="filter-select">
+                        <option value="">选择级别</option>
+                    </select>
                 </div>
-                <div class="card-footer">
-                    <button class="btn btn-toggle" id="toggleBtn">
-                        <i class="fas fa-eye"></i> 显示/隐藏
+                <!-- 词书模式 -->
+                <div class="filter-group" id="filter-book">
+                    <select id="book-select" class="filter-select">
+                        <option value="">选择词书</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- 触发按钮 -->
+        <button class="sidebar-trigger" id="sidebarTrigger">
+            <i class="fas fa-bars" id="sidebarTriggerIcon"></i>
+        </button>
+    </div>
+
+    <!-- 主内容区域 -->
+    <div class="main-container">
+        <!-- 左侧区域 -->
+        <div class="left-section">
+            <!-- 左上角：单词卡 -->
+            <div class="word-card-section">
+                <div class="word-card" id="wordCard">
+                    <div class="card-header">
+                        <span class="card-number" id="cardNumber">1 / 1</span>
+                        <div class="card-badges">
+                            <span class="card-badge badge-nlevel" id="cardNLevel"></span>
+                            <span class="card-badge badge-book" id="cardBook"></span>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <div class="japanese-text-wrapper">
+                            <div class="japanese-text" id="japaneseText">加载中...</div>
+                            <button class="btn-audio" id="audioBtn" title="发音">
+                                <i class="fas fa-volume-up"></i>
+                            </button>
+                        </div>
+                        <div class="pronunciation" id="pronunciation"></div>
+                        <div class="word-type" id="wordType"></div>
+                        <div class="divider"></div>
+                        <div class="meaning" id="meaning">加载中...</div>
+                    </div>
+                </div>
+                <!-- 控制按钮 -->
+                <div class="controls">
+                    <button class="btn btn-prev" id="prevBtn">
+                        <i class="fas fa-chevron-left"></i> 上一个
+                    </button>
+                    <button class="btn btn-shuffle" id="shuffleBtn">
+                        <i class="fas fa-random"></i> 随机
+                    </button>
+                    <button class="btn btn-next" id="nextBtn">
+                        下一个 <i class="fas fa-chevron-right"></i>
                     </button>
                 </div>
             </div>
-        </div>
 
-        <!-- 控制按钮 -->
-        <div class="controls">
-            <button class="btn btn-prev" id="prevBtn">
-                <i class="fas fa-chevron-left"></i> 上一个
-            </button>
-            <button class="btn btn-shuffle" id="shuffleBtn">
-                <i class="fas fa-random"></i> 随机
-            </button>
-            <button class="btn btn-next" id="nextBtn">
-                下一个 <i class="fas fa-chevron-right"></i>
-            </button>
-        </div>
+            <!-- 左下角：词义分析、构词分析、文化背景 -->
+            <div class="left-detail-section">
+                <!-- 词义分析 -->
+                <div class="detail-box" id="wordAnalysisBox">
+                    <h3 class="detail-box-title">
+                        <i class="fas fa-book-reader"></i> 词义分析
+                    </h3>
+                    <div class="detail-box-content" id="wordAnalysisContent"></div>
+                </div>
 
-        <!-- 统计信息 -->
-        <div class="stats">
-            <div class="stat-item">
-                <span class="stat-label">已学习</span>
-                <span class="stat-value" id="learnedCount">0</span>
+                <!-- 构词分析 -->
+                <div class="detail-box" id="affixBox">
+                    <h3 class="detail-box-title">
+                        <i class="fas fa-puzzle-piece"></i> 构词分析
+                    </h3>
+                    <div class="detail-box-content" id="affixContent"></div>
+                </div>
+
+                <!-- 文化背景 -->
+                <div class="detail-box" id="culturalBox">
+                    <h3 class="detail-box-title">
+                        <i class="fas fa-landmark"></i> 文化背景
+                    </h3>
+                    <div class="detail-box-content" id="culturalContent"></div>
+                </div>
+
+                <!-- 小故事 -->
+                <div class="detail-box" id="storyBox">
+                    <h3 class="detail-box-title">
+                        <i class="fas fa-book-open"></i> 小故事
+                    </h3>
+                    <div class="detail-box-content" id="storyContent"></div>
+                </div>
             </div>
-            <div class="stat-item">
-                <span class="stat-label">当前分类</span>
-                <span class="stat-value" id="currentCategoryCount">50</span>
+        </div>
+
+        <!-- 右侧区域：详细信息 -->
+        <div class="right-section">
+            <!-- 例句 -->
+            <div class="detail-box" id="examplesBox">
+                <h3 class="detail-box-title">
+                    <i class="fas fa-quote-left"></i> 例句
+                </h3>
+                <div class="detail-box-content" id="examplesContent"></div>
+            </div>
+
+            <!-- 单词变形 -->
+            <div class="detail-box" id="wordFormsBox">
+                <h3 class="detail-box-title">
+                    <i class="fas fa-exchange-alt"></i> 单词变形
+                </h3>
+                <div class="detail-box-content" id="wordFormsContent"></div>
+            </div>
+
+            <!-- 固定搭配 -->
+            <div class="detail-box" id="collocationsBox">
+                <h3 class="detail-box-title">
+                    <i class="fas fa-link"></i> 固定搭配
+                </h3>
+                <div class="detail-box-content" id="collocationsContent"></div>
+            </div>
+
+            <!-- 记忆技巧 -->
+            <div class="detail-box" id="memoryTipsBox">
+                <h3 class="detail-box-title">
+                    <i class="fas fa-lightbulb"></i> 记忆技巧
+                </h3>
+                <div class="detail-box-content" id="memoryTipsContent"></div>
             </div>
         </div>
     </div>
@@ -87,4 +192,3 @@
     <script src="js/main.js"></script>
 </body>
 </html>
-

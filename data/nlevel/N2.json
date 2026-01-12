@@ -1,0 +1,964 @@
+{
+  "words": [
+    {
+      "id": 93,
+      "japanese": "理念",
+      "pronunciation": "rinen",
+      "meaning": "理念，观念",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "理念表示理念、观念的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 94,
+      "japanese": "戦略",
+      "pronunciation": "senryaku",
+      "meaning": "战略，策略",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "戦略表示战略、策略的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 95,
+      "japanese": "次元",
+      "pronunciation": "jigen",
+      "meaning": "维度，层面",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "次元表示维度、层面的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 96,
+      "japanese": "基盤",
+      "pronunciation": "kiban",
+      "meaning": "基础，根基",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "基盤表示基础、根基的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 97,
+      "japanese": "潮流",
+      "pronunciation": "chouryuu",
+      "meaning": "潮流，趋势",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "潮流表示潮流、趋势的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 98,
+      "japanese": "転換",
+      "pronunciation": "tenkan",
+      "meaning": "转换，转变",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "転換表示转换、转变的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 99,
+      "japanese": "均衡",
+      "pronunciation": "kinkou",
+      "meaning": "均衡，平衡",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "均衡表示均衡、平衡的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 100,
+      "japanese": "視点",
+      "pronunciation": "shiten",
+      "meaning": "视角，观点",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "視点表示视角、观点的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 101,
+      "japanese": "本質",
+      "pronunciation": "honshitsu",
+      "meaning": "本质，实质",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "本質表示本质、实质的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 102,
+      "japanese": "課題",
+      "pronunciation": "kadai",
+      "meaning": "课题；难题",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "課題表示课题、难题的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 103,
+      "japanese": "提唱する",
+      "pronunciation": "teishou suru",
+      "meaning": "提倡，倡导",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "提唱する表示提倡、倡导的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 104,
+      "japanese": "実現する",
+      "pronunciation": "jitsugen suru",
+      "meaning": "实现",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "実現する表示实现、达成的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 105,
+      "japanese": "転換する",
+      "pronunciation": "tenkan suru",
+      "meaning": "转换，转变",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "転換する表示转换、转变的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 106,
+      "japanese": "醸成する",
+      "pronunciation": "jousei suru",
+      "meaning": "酿成，培育",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "醸成する表示酿成、培育的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 107,
+      "japanese": "確立する",
+      "pronunciation": "kakuritsu suru",
+      "meaning": "确立，建立",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "確立する表示确立、建立的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 108,
+      "japanese": "凌駕する",
+      "pronunciation": "ryouga suru",
+      "meaning": "凌驾，超越",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "凌駕する表示凌驾、超越的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 109,
+      "japanese": "醸し出す",
+      "pronunciation": "kamoshidasu",
+      "meaning": "酿造；产生",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "醸し出す表示酿造、产生的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 110,
+      "japanese": "阻害する",
+      "pronunciation": "sogai suru",
+      "meaning": "阻碍，妨碍",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "阻害する表示阻碍、妨碍的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 111,
+      "japanese": "貫く",
+      "pronunciation": "tsuranuku",
+      "meaning": "贯彻，贯穿",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "貫く表示贯彻、贯穿的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 112,
+      "japanese": "極める",
+      "pronunciation": "kiwameru",
+      "meaning": "达到极限；精通",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "極める表示达到极限、精通的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 113,
+      "japanese": "卓越した",
+      "pronunciation": "takuitsu shita",
+      "meaning": "卓越的，优秀的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "卓越した表示卓越的、优秀的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 114,
+      "japanese": "精緻な",
+      "pronunciation": "seichi na",
+      "meaning": "精致的，精细的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "精緻な表示精致的、精细的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 115,
+      "japanese": "根本的な",
+      "pronunciation": "konponteki na",
+      "meaning": "根本的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "根本的な表示根本的、基本的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 116,
+      "japanese": "多大な",
+      "pronunciation": "tadai na",
+      "meaning": "巨大的，很大的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "多大な表示巨大的、很大的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 117,
+      "japanese": "不可逆的な",
+      "pronunciation": "fukagyakuteki na",
+      "meaning": "不可逆的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "不可逆的な表示不可逆的、无法逆转的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 118,
+      "japanese": "懸命な",
+      "pronunciation": "kenmei na",
+      "meaning": "拼命的，竭尽全力的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "懸命な表示拼命的、竭尽全力的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 119,
+      "japanese": "地道な",
+      "pronunciation": "jimichi na",
+      "meaning": "踏实的，扎实的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "地道な表示踏实的、扎实的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 120,
+      "japanese": "円滑な",
+      "pronunciation": "enkatsu na",
+      "meaning": "顺利的，圆滑的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "円滑な表示顺利的、圆滑的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 121,
+      "japanese": "柔軟な",
+      "pronunciation": "juunan na",
+      "meaning": "灵活的，变通的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "柔軟な表示灵活的、变通的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 122,
+      "japanese": "画期的な",
+      "pronunciation": "kakkiteki na",
+      "meaning": "划时代的",
+      "category": "daily",
+      "nLevel": "N2",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "画期的な表示划时代的、创新的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    }
+  ]
+}

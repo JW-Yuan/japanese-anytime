@@ -1,0 +1,964 @@
+{
+  "words": [
+    {
+      "id": 63,
+      "japanese": "責任",
+      "pronunciation": "sekinin",
+      "meaning": "责任",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "責任表示责任、职责的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 64,
+      "japanese": "能力",
+      "pronunciation": "nouryoku",
+      "meaning": "能力",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "能力表示能力、才能的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 65,
+      "japanese": "視野",
+      "pronunciation": "shiya",
+      "meaning": "视野；眼界",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "視野表示视野、眼界的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 66,
+      "japanese": "知識",
+      "pronunciation": "chishiki",
+      "meaning": "知识",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "知識表示知识、学问的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 67,
+      "japanese": "技術",
+      "pronunciation": "gijutsu",
+      "meaning": "技术",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "技術表示技术、技能的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 68,
+      "japanese": "開発",
+      "pronunciation": "kaihatsu",
+      "meaning": "开发，研制",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "開発表示开发、研制的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 69,
+      "japanese": "施策",
+      "pronunciation": "sesaku",
+      "meaning": "措施，政策",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "施策表示措施、政策的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 70,
+      "japanese": "課題",
+      "pronunciation": "kadai",
+      "meaning": "课题，问题",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "課題表示课题、问题的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 71,
+      "japanese": "傾向",
+      "pronunciation": "keikou",
+      "meaning": "倾向，趋势",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "傾向表示倾向、趋势的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 72,
+      "japanese": "影響",
+      "pronunciation": "eikyou",
+      "meaning": "影响",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "影響表示影响、作用的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 73,
+      "japanese": "達成する",
+      "pronunciation": "tassei suru",
+      "meaning": "达成，完成",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "達成する表示达成、完成的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 74,
+      "japanese": "発揮する",
+      "pronunciation": "hakki suru",
+      "meaning": "发挥，施展",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "発揮する表示发挥、施展的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 75,
+      "japanese": "開発する",
+      "pronunciation": "kaihatsu suru",
+      "meaning": "开发，研发",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "開発する表示开发、研发的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 76,
+      "japanese": "促進する",
+      "pronunciation": "sokushin suru",
+      "meaning": "促进，推动",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "促進する表示促进、推动的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 77,
+      "japanese": "抑制する",
+      "pronunciation": "yokusei suru",
+      "meaning": "抑制，控制",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "抑制する表示抑制、控制的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 78,
+      "japanese": "解消する",
+      "pronunciation": "kaishou suru",
+      "meaning": "消除，解除",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "解消する表示消除、解除的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 79,
+      "japanese": "回避する",
+      "pronunciation": "kaihi suru",
+      "meaning": "回避，避开",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "回避する表示回避、避开的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 80,
+      "japanese": "克服する",
+      "pronunciation": "kokufuku suru",
+      "meaning": "克服，战胜",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "克服する表示克服、战胜的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 81,
+      "japanese": "注目する",
+      "pronunciation": "chuumoku suru",
+      "meaning": "关注，注目",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "注目する表示关注、注目的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 82,
+      "japanese": "支援する",
+      "pronunciation": "shien suru",
+      "meaning": "支援，支持",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "支援する表示支援、支持的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 83,
+      "japanese": "有能",
+      "pronunciation": "yuunou",
+      "meaning": "有能力的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "有能表示有能力的、有才能的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 84,
+      "japanese": "効率的",
+      "pronunciation": "kouritsuteki",
+      "meaning": "有效率的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "効率的表示有效率的、高效的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 85,
+      "japanese": "柔軟",
+      "pronunciation": "juunan",
+      "meaning": "灵活的，柔软的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "柔軟表示灵活的、柔软的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 86,
+      "japanese": "厳格",
+      "pronunciation": "genkaku",
+      "meaning": "严格的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "厳格表示严格的、严厉的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 87,
+      "japanese": "積極的",
+      "pronunciation": "sekkyokuteki",
+      "meaning": "积极的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "積極的表示积极的、主动的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 88,
+      "japanese": "消極的",
+      "pronunciation": "shoukyokuteki",
+      "meaning": "消极的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "消極的表示消极的、被动的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 89,
+      "japanese": "致命的",
+      "pronunciation": "chimeiteki",
+      "meaning": "致命的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "致命的表示致命的、严重的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 90,
+      "japanese": "画期的",
+      "pronunciation": "kakkiteki",
+      "meaning": "划时代的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "画期的表示划时代的、创新的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 91,
+      "japanese": "説得力",
+      "pronunciation": "settokuryoku",
+      "meaning": "有说服力的",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "説得力表示有说服力的、有说服性的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 92,
+      "japanese": "信頼性",
+      "pronunciation": "shinraisei",
+      "meaning": "可靠性",
+      "category": "daily",
+      "nLevel": "N3",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "信頼性表示可靠性、可信度的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    }
+  ]
+}

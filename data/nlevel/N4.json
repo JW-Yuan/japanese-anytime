@@ -1,0 +1,1004 @@
+{
+  "words": [
+    {
+      "id": 3,
+      "japanese": "勉強",
+      "pronunciation": "benkyou",
+      "meaning": "学习",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": "标准日本语初级下",
+      "wordType": "名词/动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "勉強既可以作为名词'学习'，也可以作为动词'学习'使用。"
+      },
+      "examples": [
+        {
+          "japanese": "日本語を勉強しています。",
+          "pronunciation": "nihongo wo benkyou shite imasu.",
+          "chinese": "我正在学习日语。"
+        }
+      ],
+      "memoryTips": [
+        "'勉強'的两个汉字'勉'和'強'都和'努力'有关，可以联想到'勉强自己努力'来记忆。"
+      ],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 33,
+      "japanese": "経験",
+      "pronunciation": "keiken",
+      "meaning": "经验",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "経験表示经验、体验的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 34,
+      "japanese": "予定",
+      "pronunciation": "yotei",
+      "meaning": "预定，计划",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "予定表示预定、计划的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 35,
+      "japanese": "理由",
+      "pronunciation": "riyuu",
+      "meaning": "理由，原因",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "理由表示理由、原因的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 36,
+      "japanese": "方法",
+      "pronunciation": "houhou",
+      "meaning": "方法，办法",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "方法表示方法、办法的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 37,
+      "japanese": "結果",
+      "pronunciation": "kekka",
+      "meaning": "结果",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "結果表示结果、成果的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 38,
+      "japanese": "問題",
+      "pronunciation": "mondai",
+      "meaning": "问题",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "問題表示问题、题目的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 39,
+      "japanese": "意見",
+      "pronunciation": "iken",
+      "meaning": "意见，看法",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "意見表示意见、看法的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 40,
+      "japanese": "情報",
+      "pronunciation": "jouhou",
+      "meaning": "信息，消息",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "情報表示信息、消息的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 41,
+      "japanese": "連絡",
+      "pronunciation": "renraku",
+      "meaning": "联系，联络",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "連絡表示联系、联络的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 42,
+      "japanese": "機会",
+      "pronunciation": "kikai",
+      "meaning": "机会",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "名词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "機会表示机会、时机的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 43,
+      "japanese": "経験する",
+      "pronunciation": "keiken suru",
+      "meaning": "经历，体验",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "経験する表示经历、体验的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 44,
+      "japanese": "予定する",
+      "pronunciation": "yotei suru",
+      "meaning": "计划，预定",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "予定する表示计划、预定的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 45,
+      "japanese": "解決する",
+      "pronunciation": "kaiketsu suru",
+      "meaning": "解决",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "解決する表示解决、处理的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 46,
+      "japanese": "決定する",
+      "pronunciation": "kettei suru",
+      "meaning": "决定",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "決定する表示决定、确定的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 47,
+      "japanese": "提案する",
+      "pronunciation": "teian suru",
+      "meaning": "提案，提议",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "提案する表示提案、提议的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 48,
+      "japanese": "説明する",
+      "pronunciation": "setsumei suru",
+      "meaning": "说明，解释",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "説明する表示说明、解释的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 49,
+      "japanese": "連絡する",
+      "pronunciation": "renraku suru",
+      "meaning": "联系，联络",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "連絡する表示联系、联络的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 50,
+      "japanese": "確認する",
+      "pronunciation": "kakunin suru",
+      "meaning": "确认，核实",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "確認する表示确认、核实的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 51,
+      "japanese": "改善する",
+      "pronunciation": "kaizen suru",
+      "meaning": "改善，改进",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "改善する表示改善、改进的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 52,
+      "japanese": "発表する",
+      "pronunciation": "happyou suru",
+      "meaning": "发表，宣布",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "発表する表示发表、宣布的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 53,
+      "japanese": "重要",
+      "pronunciation": "juuyou",
+      "meaning": "重要的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "重要表示重要的、重大的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 54,
+      "japanese": "必要",
+      "pronunciation": "hitsuyou",
+      "meaning": "必要的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "必要表示必要的、必需的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 55,
+      "japanese": "可能",
+      "pronunciation": "kanou",
+      "meaning": "可能的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "可能表示可能的、能够的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 56,
+      "japanese": "不可能",
+      "pronunciation": "fukanou",
+      "meaning": "不可能的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "不可能表示不可能的、无法实现的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 57,
+      "japanese": "便利",
+      "pronunciation": "benri",
+      "meaning": "方便的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "便利表示方便的、便利的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 58,
+      "japanese": "不便",
+      "pronunciation": "fuben",
+      "meaning": "不方便的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "不便表示不方便的、不便的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 59,
+      "japanese": "安心",
+      "pronunciation": "anshin",
+      "meaning": "安心的，放心的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "安心表示安心的、放心的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 60,
+      "japanese": "危険",
+      "pronunciation": "kiken",
+      "meaning": "危险的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "危険表示危险的、不安全的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 61,
+      "japanese": "有名",
+      "pronunciation": "yuumei",
+      "meaning": "有名的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "有名表示有名的、知名的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    },
+    {
+      "id": 62,
+      "japanese": "豊か",
+      "pronunciation": "yutaka",
+      "meaning": "丰富的；富裕的",
+      "category": "daily",
+      "nLevel": "N4",
+      "book": null,
+      "wordType": "形容动词",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "豊か表示丰富的、富裕的意思。"
+      },
+      "examples": [],
+      "memoryTips": [],
+      "wordRoot": null,
+      "affix": {
+        "components": [],
+        "relatedWords": []
+      },
+      "culturalBackground": {
+        "origin": "",
+        "usage": "",
+        "context": ""
+      },
+      "wordForms": {},
+      "collocations": [],
+      "story": {
+        "japanese": "",
+        "chinese": ""
+      }
+    }
+  ]
+}

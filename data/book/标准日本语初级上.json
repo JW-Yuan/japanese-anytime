@@ -1,0 +1,53 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "japanese": "こんにちは",
+      "pronunciation": "konnichiwa",
+      "meaning": "你好（白天问候）",
+      "category": "greetings",
+      "nLevel": "N5",
+      "book": "标准日本语初级上",
+      "wordType": "问候语",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "こんにちは是日语中最常用的问候语之一，用于白天（大约上午10点到下午5点）的打招呼。"
+      },
+      "examples": [
+        {
+          "japanese": "こんにちは、元気ですか？",
+          "pronunciation": "konnichiwa, genki desu ka?",
+          "chinese": "你好，你好吗？"
+        }
+      ],
+      "memoryTips": [
+        "记住'こんにちは'中的'にち'和中文'日'字相似，都是'日子'的意思。"
+      ]
+    },
+    {
+      "id": 2,
+      "japanese": "おはよう",
+      "pronunciation": "ohayou",
+      "meaning": "早上好",
+      "category": "greetings",
+      "nLevel": "N5",
+      "book": "标准日本语初级上",
+      "wordType": "问候语",
+      "audio": null,
+      "wordAnalysis": {
+        "basic": "おはよう是早上使用的问候语，是最常用的日语问候之一。"
+      },
+      "examples": [
+        {
+          "japanese": "おはようございます。",
+          "pronunciation": "ohayou gozaimasu.",
+          "chinese": "早上好（正式）"
+        }
+      ],
+      "memoryTips": [
+        "'おはよう'中的'はや'和'早'（早い）发音相似，可以联想到'早'。"
+      ]
+    }
+  ]
+}
+
