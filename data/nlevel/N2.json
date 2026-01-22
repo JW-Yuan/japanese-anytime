@@ -1,69 +1,46 @@
-{
-  "words": [
-    {
-      "id": 93,
-      "japanese": "理念",
-      "pronunciation": "rinen",
-      "meaning": "理念，观念",
-      "category": "daily",
-      "nLevel": "N2",
-      "book": null,
-      "wordType": "名词",
-      "audio": null,
-      "wordAnalysis": {
-        "basic": "理念表示理念、观念的意思。"
-      },
-      "examples": [],
-      "memoryTips": [],
-      "wordRoot": null,
-      "affix": {
-        "components": [],
-        "relatedWords": []
-      },
-      "culturalBackground": {
-        "origin": "",
-        "usage": "",
-        "context": ""
-      },
-      "wordForms": {},
-      "collocations": [],
-      "story": {
-        "japanese": "",
-        "chinese": ""
-      }
+[
+  {
+    "单词": "理念",
+    "简介": {
+      "假名": "りねん",
+      "罗马音": "rinen",
+      "简短释义": "理念，观念"
     },
-    {
-      "id": 94,
-      "japanese": "戦略",
-      "pronunciation": "senryaku",
-      "meaning": "战略，策略",
-      "category": "daily",
-      "nLevel": "N2",
-      "book": null,
-      "wordType": "名词",
-      "audio": null,
-      "wordAnalysis": {
-        "basic": "戦略表示战略、策略的意思。"
-      },
-      "examples": [],
-      "memoryTips": [],
-      "wordRoot": null,
-      "affix": {
-        "components": [],
-        "relatedWords": []
-      },
-      "culturalBackground": {
-        "origin": "",
-        "usage": "",
-        "context": ""
-      },
-      "wordForms": {},
-      "collocations": [],
-      "story": {
-        "japanese": "",
-        "chinese": ""
-      }
+    "词义分析": {
+      "名词": "理念表示理念、观念、思想体系的意思。"
     },
+    "例句与用法": "会社の経営理念を考える。\n思考公司的经营理念。",
+    "词根/构词分析": "由「理」和「念」两个汉字组成，表示道理的想法。",
+    "词缀/接头辞/接尾辞": "无特殊词缀，纯汉字复合词。",
+    "语法活用与变形": "名词，无活用变形。",
+    "历史与文化背景": "汉字词，在日本企业文化中常用。",
+    "记忆辅助": "理（道理）+念（想法）= 道理的想法",
+    "小故事/场景": {
+      "日语故事": "社長は新しい理念を考えていた。「顧客第一」という理念を社員に伝えた。",
+      "中文翻译": "社长正在思考新的理念。他把「客户第一」的理念传达给了员工。"
+    }
+  },
+  {
+    "单词": "戦略",
+    "简介": {
+      "假名": "せんりゃく",
+      "罗马音": "senryaku",
+      "简短释义": "战略，策略"
+    },
+    "词义分析": {
+      "名词": "戦略表示战略、策略、战术的意思。"
+    },
+    "例句与用法": "会社の戦略を立てる。\n制定公司的战略。",
+    "词根/构词分析": "由「戦」和「略」组成，表示战斗中的策略。",
+    "词缀/接头辞/接尾辞": "无特殊词缀，纯汉字复合词。",
+    "语法活用与变形": "名词，无活用变形。",
+    "历史与文化背景": "汉字词，在商业和军事领域常用。",
+    "记忆辅助": "戦（战斗）+略（策略）= 战斗中的策略",
+    "小故事/场景": {
+      "日语故事": "会議で戦略について話し合った。「この戦略で市場を拡大しよう。」",
+      "中文翻译": "在会议上讨论了战略。「用这个战略来扩大市场吧。」"
+    }
+  }
     {
       "id": 95,
       "japanese": "次元",
@@ -95,11 +72,9 @@
         "japanese": "",
         "chinese": ""
       }
-    },
-    {
-      "id": 96,
-      "japanese": "基盤",
-      "pronunciation": "kiban",
+    }
+]
+
       "meaning": "基础，根基",
       "category": "daily",
       "nLevel": "N2",
