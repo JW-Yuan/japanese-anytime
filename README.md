@@ -4,9 +4,7 @@
 
 ## 🌐 在线访问
 
-**网页地址**：https://JW-Yuan.github.io/japanese-anytime/
-
-本项目已集成到个人网站 [JW-Yuan.github.io](https://github.com/JW-Yuan/JW-Yuan.github.io) 中，可直接在线使用。
+**网页地址**：https://JW-Yuan.github.io/japanese-anytime/ 可直接在线使用。
 
 ## 📖 使用方法
 
